@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dt_Turn your social media pages into shops</name>
+   <tag></tag>
+   <elementGuidId>9cc8ef49-d925-417f-a183-d8421433dd76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='body']/div[2]/div/div/div/div/div/div/div[3]/dl/dt[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>dt</value>
+      <webElementGuid>39afcf7b-69ec-47db-8324-03a530216a07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-title</value>
+      <webElementGuid>e800d329-7b95-4908-8f10-be30d045c71b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Turn your social media pages into shops</value>
+      <webElementGuid>0e39bfe2-70e8-46fd-9c11-772656924e0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;register-wrapper&quot;]/div[@class=&quot;register-padding&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-5 col-md-5 register-mobi-left&quot;]/div[@class=&quot;text-center public-desk-color visible-md visible-lg&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/dl[@class=&quot;check-circle-list&quot;]/dt[@class=&quot;list-title&quot;]</value>
+      <webElementGuid>dcd08059-d0b9-40ee-af36-0b8c15604b59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='body']/div[2]/div/div/div/div/div/div/div[3]/dl/dt[3]</value>
+      <webElementGuid>e7bd2687-710e-460e-aa38-3eade33a1f5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set up an online checkout in minutes'])[1]/following::dt[1]</value>
+      <webElementGuid>49f2855e-b4ae-40c3-a363-3689be8ba10a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='By secure payment link or QR code'])[1]/following::dt[2]</value>
+      <webElementGuid>47687a7f-b0cb-4484-94f0-4099dadae968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='..while offering convenience to your customers'])[1]/preceding::dt[1]</value>
+      <webElementGuid>9a7d8c2e-c462-41f5-bd51-ef95daa6dc10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create a Mobipaid account'])[1]/preceding::dt[1]</value>
+      <webElementGuid>6863e9bb-f9fd-481f-978c-848c845bd1a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Turn your social media pages into shops']/parent::*</value>
+      <webElementGuid>8909ca85-8b61-49fc-9eba-823ee64e1055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dt[3]</value>
+      <webElementGuid>46ad37a6-aad3-49a8-bf0e-e2e6a17be6e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//dt[(text() = 'Turn your social media pages into shops' or . = 'Turn your social media pages into shops')]</value>
+      <webElementGuid>fc10375d-7aaf-4268-bde7-45443132a09b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
